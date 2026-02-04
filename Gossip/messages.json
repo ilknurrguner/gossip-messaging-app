@@ -1,0 +1,72 @@
+[
+  {
+    "deletedForSender": false,
+    "deletedForReceiver": false,
+    "deletedForEveryone": false,
+    "sender": "naz",
+    "receiver": "ilknur",
+    "content": "hey selam",
+    "timestamp": "2026-01-24 20:54:41",
+    "read": false
+  },
+  {
+    "deletedForSender": false,
+    "deletedForReceiver": false,
+    "deletedForEveryone": false,
+    "sender": "naz",
+    "receiver": "Proje",
+    "content": "hoş geldiniz",
+    "timestamp": "2026-01-24 20:54:54",
+    "read": true
+  },
+  {
+    "deletedForSender": false,
+    "deletedForReceiver": false,
+    "deletedForEveryone": false,
+    "sender": "fahri",
+    "receiver": "Proje",
+    "content": "fahri, murat kişisini gruba ekledi.",
+    "timestamp": "2026-01-24 20:55:08",
+    "read": true
+  },
+  {
+    "deletedForSender": false,
+    "deletedForReceiver": false,
+    "deletedForEveryone": false,
+    "sender": "naz",
+    "receiver": "Proje",
+    "content": "naz, murat kişisini gruptan çıkardı.",
+    "timestamp": "2026-01-24 20:59:01",
+    "read": true
+  },
+  {
+    "deletedForSender": false,
+    "deletedForReceiver": false,
+    "deletedForEveryone": false,
+    "sender": "fahri",
+    "receiver": "Proje",
+    "content": "süper1",
+    "timestamp": "2026-01-24 21:01:21",
+    "read": false
+  },
+  {
+    "deletedForSender": false,
+    "deletedForReceiver": false,
+    "deletedForEveryone": false,
+    "sender": "fahri",
+    "receiver": "naz",
+    "content": "Projeyi halledelim",
+    "timestamp": "2026-01-24 21:01:34",
+    "read": false
+  },
+  {
+    "deletedForSender": false,
+    "deletedForReceiver": false,
+    "deletedForEveryone": false,
+    "sender": "murat",
+    "receiver": "fahri",
+    "content": "projeye basla",
+    "timestamp": "2026-01-24 21:01:46",
+    "read": false
+  }
+]

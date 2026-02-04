@@ -1,0 +1,11 @@
+.main-bg {
+    -fx-background-image: url("gossip.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+.red-text {
+    -fx-fill: #e31e05;
+    -fx-font-size: 10px;
+}
